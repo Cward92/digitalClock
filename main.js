@@ -10,7 +10,7 @@ function currentTime() {
     min = updateTime(min);
     sec = updateTime(sec);
     document.getElementById("clock").innerText = hour + " : " + min + " : " + sec; 
-    document.getElementById("date-clock").innerText = month + " : " + day + " : " + year;//Add Time values to div//
+    document.getElementById("date-clock").innerText = month + " / " + day + " / " + year;//Add Time values to div//
       var t = setInterval(function(){ currentTime() }, 1000); //Set update interval//
   }
   

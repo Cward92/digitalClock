@@ -1,0 +1,23 @@
+@import
+url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: #121212;
+  }
+  
+  #clock {
+    font-family: 'Roboto', sans-serif;
+    color: #66ff99;
+    font-size: 56px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  #date-clock {
+    font-family: 'Roboto', sans-serif;
+    color: #66ff99;
+    font-size: 56px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }

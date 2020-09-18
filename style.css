@@ -5,15 +5,7 @@ body {
     background-color: #121212;
   }
   
-  #clock {
-    font-family: 'Roboto', sans-serif;
-    color: #66ff99;
-    font-size: 56px;
-    text-align: center;
-    padding-top: 40px;
-    padding-bottom: 40px;
-  }
-  #date-clock {
+  #clock #date-clock{
     font-family: 'Roboto', sans-serif;
     color: #66ff99;
     font-size: 56px;
